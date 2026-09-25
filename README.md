@@ -24,4 +24,8 @@
 
 - **Data Bars** were applied to the **Price** column using **Conditional Formatting** to visually represent the relative values.
 
-- A **New Rule** under **Conditional Formatting** was used to highlight the cells in the **Category** column where the value is **"Electronics"**, making those entries easier to identify.  
+- A **New Rule** under **Conditional Formatting** was used to highlight the cells in the **Category** column where the value is **"Electronics"**, making those entries easier to identify.
+## Conclusion
+
+The data was thoroughly **cleaned, standardized, and transformed** to improve its accuracy, consistency, and usability. Missing values and inconsistencies were addressed, duplicate records were removed, and the data was structured and formatted for clear presentation. The resulting dataset is **organized, reliable, and ready for further analysis.**  
+
